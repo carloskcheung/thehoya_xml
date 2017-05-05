@@ -7,26 +7,22 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
-<0>
-		<uid>EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1</uid>
-		<updateDate>2017-04-26T00:00:00.0Z</updateDate>
-		<titleText>Multi Item JSON (TTS)</titleText>
-		<mainText></mainText>
-		<streamUrl>https://d366cdbbwqnolc.cloudfront.net/progressive/1602_QRPI0098000_Drivers_Seat_Mindfloness_15_NoSlate.mp3?slotId=6dc1b640-30f2-11a7-1692-0e9141af46f8
-		</streamUrl>
-		<redirectionUrl>http://voicelabs.co</redirectionUrl>
-	</0>
-	<1>
-		<uid>EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2</uid>
-		<updateDate>2017-04-26T00:00:00.0Z</updateDate>
-		<titleText>The Hoya (TTS)</titleText>
-		<mainText>The Hoya</mainText>
-		<redirectionUrl>https://www.thehoya.com/</redirectionUrl>
-	</1>
 
+
+
+		
 
 	
 <channel>
+	
+	<uid>EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1</uid>
+	<updateDate>2017-04-26T00:00:00.0Z</updateDate>
+	<titleText>Multi Item JSON (TTS)</titleText>
+	<mainText></mainText>
+	<streamUrl>https://d366cdbbwqnolc.cloudfront.net/progressive/1602_QRPI0098000_Drivers_Seat_Mindfloness_15_NoSlate.mp3?slotId=6dc1b640-30f2-11a7-1692-0e9141af46f8
+	</streamUrl>
+	<redirectionUrl>http://voicelabs.co</redirectionUrl>
+	
 	<title></title>
 	<atom:link href="http://www.thehoya.com/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.thehoya.com</link>
