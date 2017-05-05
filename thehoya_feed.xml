@@ -11,9 +11,6 @@
 
 	
 <channel>
-	
-
-	
 	<title></title>
 	<atom:link href="http://www.thehoya.com/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.thehoya.com</link>
