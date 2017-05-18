@@ -9,17 +9,16 @@
 		
 	
 <channel>
-	<item>
-		<uid>EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1</uid>
-		<pubDate>Thurs, 05 May 2017 21:32:01 +0000</pubDate>
-		<title>Multi Item JSON (TTS)</title>
-		<mainText></mainText>
-		<streamUrl>https://d366cdbbwqnolc.cloudfront.net/progressive/1602_QRPI0098000_Drivers_Seat_Mindfloness_15_NoSlate.mp3?slotId=6dc1b640-30f2-11a7-1692-0e9141af46f8
-		</streamUrl>
-		<redirectionUrl>http://voicelabs.co</redirectionUrl>
-	</item>
 
-	<redirectionUrl>http://voicelabs.co</redirectionUrl>
+   <item>
+      <title></title>
+      <link>http://voicelabs.co</link>
+      <pubDate>1969-12-31T19:00:00Z</pubDate>
+      <description></description>
+	<streamUrl>https://d366cdbbwqnolc.cloudfront.net/progressive/1602_QRPI0098000_Drivers_Seat_Mindfloness_15_NoSlate.mp3?slotId=6dc1b640-30f2-11a7-1692-0e9141af46f8
+		</streamUrl>
+      <guid>urn:uuid:b385254e-dc31-4c4a-afc5-0de97e43923c</guid>
+    </item>
 	
 	<title></title>
 	<atom:link href="http://www.thehoya.com/feed/" rel="self" type="application/rss+xml" />
