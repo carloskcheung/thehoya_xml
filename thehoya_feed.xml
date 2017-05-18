@@ -17,6 +17,16 @@
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=4.1.18</generator>
+	
+	<item>
+	      <guid>fdb01f9e-60a7-4ecd-bc1c-5de973b266bc</guid>
+		<title>Sanfrancisco local news, May 18, 2017</title>
+		<description>May 18, 2017 Local news for Sanfrancisco</description>
+		<pubDate>2017-05-18T09:44:04Z</pubDate>
+		<enclosure url="https://d366cdbbwqnolc.cloudfront.net/flashbriefings/flash-briefing-846eed60-3bae-11a7-1efa-0ec1c7da85e2.mp3?slotId=c3ac5e90-3424-11a7-26c6-0ec1c7da85e2;adId=43" length="12216320" type="audio/mpeg"/>
+   	 </item>
+
+	
 	<item>
 		<title>Movie Review: &#8216;Guardians of the Galaxy: Vol. 2&#8242;</title>
 		<link>http://www.thehoya.com/movie-review-guardians-of-the-galaxy-vol-2/</link>
