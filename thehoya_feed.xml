@@ -17,7 +17,15 @@
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=4.1.18</generator>
-	
+     
+    <item>
+      <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b</guid>
+      <title> TinBu </title>
+      <description> </description>
+      <link>https://voicelabs.co</link>
+      <pubDate>2017-05-18T09:44:04Z</pubDate>
+     <enclosure url="https://d366cdbbwqnolc.cloudfront.net/espn/WCF-generic.mp3?slotId=9d21ce10-34db-11a7-1692-0e9141af46f8;adId=66" length="602996" type="audio/mpeg"/>
+    </item>
 
     <item>
       <title>Wednesday, May 17th, 2017  Powerball Drawing Results</title>
